@@ -38,3 +38,13 @@ Python | ROS2 | OpenCV | Machine Learning | Embedded Systems | Fusion 360 | Circ
 ## 📫 Connect With Me
 📧 Email: [adarshvinod54vr@gmail.com](mailto:adarshvinod54vr@gmail.com)  
 🔗 LinkedIn: [Adarsh N V](https://www.linkedin.com/in/adarsh-n-v-556b09253)
+
+
+---
+
+## 📊 GitHub Stats
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh5447&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh5447&layout=compact&theme=tokyonight)
+
