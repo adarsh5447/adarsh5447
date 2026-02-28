@@ -38,7 +38,7 @@ Developing an AI-powered supermarket assistant robot using **ROS2** and **NVIDIA
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2C3E50?style=for-the-badge)
-
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 ---
 
 ## 📫 Connect With Me
