@@ -28,16 +28,30 @@ My work focuses on drones, humanoid robotics, and smart agricultural automation.
 - Designed automated irrigation control logic
 - Built real-time monitoring framework
 ---
+---
+
 ## 🚧 Currently Working On
-### 🛒 Retail Assistant Robot
-Developing an autonomous robot assistant designed for supermarket environments.
-Features:
-- 🧍 Human detection and tracking
-- 🗺️ Indoor navigation and guidance
-- 🛍️ Assisting customers with shopping
-- 📦 Providing real-time information about store items
-- 🤖 Interactive customer support system
-The system integrates computer vision, sensor fusion, and intelligent navigation to enhance customer experience inside retail spaces.
+
+### 🛒 Autonomous Retail Assistant Robot
+
+Developing an AI-powered supermarket assistant robot using **ROS2** and **NVIDIA Jetson** for edge processing.
+
+### 🧠 System Architecture
+- 🤖 ROS2-based modular robot framework
+- 🖥️ NVIDIA Jetson for real-time AI computation
+- 📡 LiDAR for mapping and obstacle detection
+- 📏 Ultrasonic sensors for short-range collision avoidance
+- 📷 Camera-based computer vision for human detection & tracking
+
+### 🚀 Key Capabilities
+- Real-time human detection and tracking
+- Autonomous indoor navigation
+- Customer guidance through store aisles
+- Product and store information assistance
+- Sensor fusion for safe movement in crowded environments
+
+The robot integrates SLAM, perception algorithms, and intelligent motion control to enhance in-store customer experience.
+
 ---
 ## 🛠️ Technical Skills
 Python | ROS2 | OpenCV | Machine Learning | Fusion 360 | Circuit Design | Embedded Systems
