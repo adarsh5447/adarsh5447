@@ -31,9 +31,6 @@ Developing an AI-powered supermarket assistant robot using **ROS2** and **NVIDIA
 ---
 
 ## 🛠 Tech Stack
----
-
-## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
